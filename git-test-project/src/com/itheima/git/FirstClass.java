@@ -9,8 +9,5 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println(i);
-        }
     }
 }
